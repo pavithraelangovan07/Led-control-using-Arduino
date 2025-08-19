@@ -1,7 +1,7 @@
 ## Name: Jesu Smartia A
 ## Reg no: 212223110016
 
-# Led-control-using-Arduino
+# EXP 1: Led Control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
