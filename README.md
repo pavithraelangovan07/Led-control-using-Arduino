@@ -1,3 +1,6 @@
+## Name: Jesu Smartia A
+## Reg no: 212223110016
+
 # Led-control-using-Arduino
 
 ## AIM
@@ -60,7 +63,30 @@ Weighing Machines </br>
 ## CIRCUIT DIAGRAM
 
 ## PROGRAM
+```
+void setup() {
+  pinMode(12,OUTPUT);
+  pinMode(4,INPUT);
+}
 
+void loop() {
+  int button_status=digitalRead(4);
+  if(button_status==HIGH)
+  {
+    digitalWrite(12,HIGH);
+    delay(500);
+    digitalWrite(12,LOW);
+    delay(500);
+  }
+  else
+  {
+    digitalWrite(12,LOW);
+  }
+
+}
+```
 ## OUTPUT
-
+<img width="1108" height="787" alt="Screenshot 2025-08-19 105416" src="https://github.com/user-attachments/assets/13717eb1-2200-4616-bc28-1c041f01f2f4" />
+<img width="1127" height="777" alt="Screenshot 2025-08-19 105355" src="https://github.com/user-attachments/assets/1e3492ca-bdd8-4431-9d13-15724fc42633" />
 ## RESULT
+Thus, the program to blink the LED is executed successfully.
