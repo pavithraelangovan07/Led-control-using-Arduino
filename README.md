@@ -62,6 +62,8 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+<img width="1015" height="716" alt="Screenshot 2025-08-19 111904" src="https://github.com/user-attachments/assets/7845011b-07f3-4f68-a513-33239268775b" />
+
 ## PROGRAM
 ```
 void setup() {
@@ -88,7 +90,9 @@ void loop() {
 ## OUTPUT
 ### LED ON:
 <img width="1108" height="787" alt="Screenshot 2025-08-19 105416" src="https://github.com/user-attachments/assets/13717eb1-2200-4616-bc28-1c041f01f2f4" />
+
 ### LED OFF:
 <img width="1127" height="777" alt="Screenshot 2025-08-19 105355" src="https://github.com/user-attachments/assets/1e3492ca-bdd8-4431-9d13-15724fc42633" />
+
 ## RESULT
 Thus, the program to blink the LED is executed successfully.
