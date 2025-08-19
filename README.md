@@ -1,5 +1,5 @@
-## Name: Jesu Smartia A
-## Reg no: 212223110016
+## Name: pavithra E
+## Reg no: 212224220072
 
 # EXP 1: Led Control using Arduino
 
