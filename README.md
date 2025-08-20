@@ -1,4 +1,4 @@
-## Name: pavithra E
+## Name: pavithra E 
 ## Reg no: 212224220072
 
 # EXP 1: Led Control using Arduino
